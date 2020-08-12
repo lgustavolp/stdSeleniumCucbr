@@ -1,0 +1,3 @@
+nomeTeste;email;password;nomeUsuario;resultado
+loginValido;lgpereira@teste.com;gustavo;Luiz Gustavo Pereira;positivo
+loginInvalido;lgpereira@teste.com;teste123;Luiz Gustavo Pereira;negativo
