@@ -1,4 +1,4 @@
-# Projeto - Selenium + Cucumber (QA)
+# Project - Selenium + Cucumber (QA)
 
 In this test, the following dependencies were used:
 
