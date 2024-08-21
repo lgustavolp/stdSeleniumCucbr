@@ -1,2 +1,1 @@
-# estudo
-Projetos de Estudo - Selenium + Cucumber
+# Projeto - Selenium + Cucumber
