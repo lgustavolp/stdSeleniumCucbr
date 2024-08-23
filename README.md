@@ -1,6 +1,6 @@
 # Project - Selenium + Cucumber (QA)
 
-In this test, the following dependencies were used:
+In this Project test (e-commerce Prestshop), the following dependencies were used:
 
 * JUNIT
 * HAMCREST
