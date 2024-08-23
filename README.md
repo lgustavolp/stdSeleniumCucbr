@@ -1,6 +1,6 @@
-# Project - Selenium + Cucumber (QA)
+# Project - Selenium + Cucumber (QA) + POM (Page Objects Model)
 
-In this Project test (e-commerce Prestshop), the following dependencies were used:
+In this Project test (e-Commerce Prestshop), the following dependencies were used:
 
 * JUNIT
 * HAMCREST
